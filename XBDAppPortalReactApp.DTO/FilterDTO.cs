@@ -11,7 +11,7 @@ namespace XBDAppPortalReactApp.DTO
         public bool Selected { get; set; }
         public FilterEnum FilterName { get; set; }
     }
-
+    //test git detect
     public enum FilterEnum
     {
         App = 1,
