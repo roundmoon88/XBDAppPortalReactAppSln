@@ -1,0 +1,53 @@
+﻿/*The Home.css file was added by Richard at later time*/
+
+#homeContainer {
+    /*display: flex;*/
+    justify-content: center;
+    position: relative;
+    top: -14px;
+}
+
+
+
+
+.portalListRoot {
+ 
+    height: 850px;
+    background-color: antiquewhite;
+    padding: 50px;
+}
+
+    .portalListRoot .header {
+        margin: 30px auto;
+        max-width: 400px;
+        font-weight: bold;
+        font-size: 22px;
+    }
+
+    .portalListRoot .filterWrap {
+        padding: 10px;
+        margin-bottom: 10px;
+        margin: 2px auto;
+        max-width: 550px;
+    }
+
+        .portalListRoot .filterWrap .filter {
+            padding: 10px;
+            border-radius: 10px;
+            margin-bottom: 10px;
+            margin-left: 2px;
+            margin-right: 2px;
+        }
+
+    .portalListRoot table {
+    }
+
+        .portalListRoot table tr {
+        }
+
+            .portalListRoot table tr td, th {
+                border-style: solid;
+                border-width: 1px;
+                padding: 12px;
+            }
+
